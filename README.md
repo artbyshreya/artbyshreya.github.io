@@ -4,3 +4,5 @@ Shreya is an animator and illustrator based in the Bay Area. She enjoys creating
 body  {
 /* background: url('https://shreyaneocities.carrd.co/assets/images/image02.jpg?v=9f4f9b35'); */
 }
+
+<img width="250" height="250" alt="Untitled_Artwork 227" src="https://github.com/user-attachments/assets/ba942f32-e3c6-4642-82cc-a613776943c2"/>
