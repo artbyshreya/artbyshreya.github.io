@@ -1,6 +1,4 @@
 <p align="center"> <img width="350" height="350" alt="Untitled_Artwork 27" src="https://github.com/user-attachments/assets/821b3954-1900-4bdf-b4cd-f28b54abffd1" /> </p>
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,9 +9,9 @@
 <body>
     <div class="tab-container">
         <!-- Tab buttons -->
-        <button class="tab-button" onclick="openTab(event, 'Home')">Home</button>
-        <button class="tab-button" onclick="openTab(event, 'About')">About</button>
-        <button class="tab-button" onclick="openTab(event, 'Contact')">Contact</button>
+        <button class="tab-button" onclick="openTab(event, 'Animation Reel')">Home</button>
+        <button class="tab-button" onclick="openTab(event, 'Visual Development')">About</button>
+        <button class="tab-button" onclick="openTab(event, 'About')">Contact</button>
     </div>
 
     <!-- Tab content -->
@@ -35,6 +33,6 @@
     <script src="script.js"></script>
 </body>
 </html>
-# Profile
+# About
 Shreya is an animator and illustrator based in the Bay Area. She enjoys creating immersive worlds with energetic characters and bright color pallets.
 
