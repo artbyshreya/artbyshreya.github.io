@@ -9,11 +9,15 @@
 <body>
     <div class="tab-container">
         <!-- Tab buttons -->
-        <button class="tab-button" onclick="openTab(event, 'Animation Reel')">Home</button>
-        <button class="tab-button" onclick="openTab(event, 'Visual Development')">About</button>
-        <button class="tab-button" onclick="openTab(event, 'About')">Contact</button>
+        <button class="tab-button" onclick="openTab(event, 'Animation')">Animation</button>
+        <button class="tab-button" onclick="openTab(event, 'Visual Development')">Visual Development</button>
+        <button class="tab-button" onclick="openTab(event, 'Storyboards')">Storyboards</button>
+        <button class="tab-button" onclick="openTab(event, 'About')">About</button>
     </div>
-
+<div id="Animation Reel" class="tabcontent">
+  <h3>2D Reel</h3>
+  <p>London is the capital city of England.</p>
+</div>
 
 </body>
 </html>
